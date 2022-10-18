@@ -2,7 +2,7 @@ import React from 'react'
 // holder for image tage of an introvert //
 
 function Introvert() {
-    retrun (
+    return (
         <section id="inner" className="introvert">
             <img  />
             <div className="inverted">
