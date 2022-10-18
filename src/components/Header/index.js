@@ -6,22 +6,43 @@ import Common from '../Common-Ground';
 
 function Header() {
     return (
-    <header>
+    <Router>
+        <header>
         <h1>Introverts and Extroverts</h1>
         <nav>
             <ul>
                 <li className="mx-2">
-                    Introvert
+                    <NavLink to="/introvert-webpage" className="style-nav" activeClassName="style-nav-active">
+                        Introvert
+                    </NavLink>
                 </li> 
                 <li className="mx-2">
-                    Extrovert
+                    <NavLink to="/extrovert" className="ext-nav" activeClassName="ext-nav-active">
+                        Extrovert
+                    </NavLink>
                 </li>
                 <li className="mx-2">
-                    Common
+                    <NavLink to="/common" className="com-nave" activeClassName="con-nav-active">
+                        Common
+                    </NavLink>
                 </li>
             </ul>
         </nav>
     </header>
+    <Switch>
+        <Route path="/intorvert-webpage">
+            <Introvert></Introvert>
+        </Route>
+
+        <Route path="/extrovert">
+            <Extrovert></Extrovert>
+        </Route>
+
+        <Route path="/common">
+            <Common></Common>
+        </Route>
+    </Switch>
+    </Router>
     )
 }
 
