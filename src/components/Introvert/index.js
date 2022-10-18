@@ -3,7 +3,7 @@ import React from 'react'
 
 function Introvert() {
     retrun (
-        <section id="introvert" className="into">
+        <section id="inner" className="introvert">
             <img  />
             <div className="inverted">
                 <h2>Introverts</h2>
