@@ -1,5 +1,5 @@
 import React from 'react';
-import { BroswerRouter as Router, Switch, Route, NavLink } from "react-router-dom";
+import { BrowserRouter as Router, Switch, Route, NavLink } from "react-router-dom";
 import Introvert from '../Introvert';
 import Extrovert from '../Extrovert';
 import Common from '../Common-Ground';

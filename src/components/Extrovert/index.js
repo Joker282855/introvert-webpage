@@ -4,7 +4,6 @@ import React from 'react';
 function Extrovert() {
     return (
         <section id="outer" className="extrovert">
-            <img  />
             <div className="going">
                 <h2>Extroverts</h2>
                 <p></p>

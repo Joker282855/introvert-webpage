@@ -4,10 +4,9 @@ import React from 'react'
 function Introvert() {
     return (
         <section id="inner" className="introvert">
-            <img  />
             <div className="inverted">
                 <h2>Introverts</h2>
-                <p></p>
+                <p>Introvets usually tend to be withdrawn</p>
             </div>
         </section>
     )
