@@ -30,7 +30,7 @@ function Header() {
         </nav>
     </header>
     <Switch>
-        <Route path="/intorvert-webpage">
+        <Route path="/introvert-webpage">
             <Introvert></Introvert>
         </Route>
 
