@@ -47,6 +47,17 @@ header nav ul li a {
   flex-wrap: wrap;
   justify-content: center;
 }
+.introvert img {
+  height: 220px;
+}
 .inverted {
   width: 100%;
+}
+.inverted h2 {
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.inverted p {
+  text-align: center;
 }
