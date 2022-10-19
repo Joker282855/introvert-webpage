@@ -3,12 +3,16 @@
   margin: 0px;
   padding: 0px;
 }
+body {
+  background-color: skyblue;
+}
 header {
   padding: 25px;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
+  background-image: url("./assests/background/cool-background.jpg");
 }
 header h1 {
   font-size: 45px;
@@ -33,4 +37,5 @@ header nav ul li {
 header nav ul li a {
   text-decoration: none;
   font-size: 1.50vw;
+  color: black;
 }
