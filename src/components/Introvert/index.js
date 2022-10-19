@@ -4,7 +4,7 @@ import Introverted from "../../assests/inverts/introvert.jpg"
 function Introvert() {
     return (
         <section id="inner" className="introvert">
-            <img src={Introverted} alt="picture of words that describe introverts" />
+            <img src={Introverted} alt="words describing introverts" className="inside" />
             <div className="inverted">
                 <h2>Introverts</h2>
                 <p>Introvets usually tend to be withdrawn</p>

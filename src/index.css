@@ -39,3 +39,11 @@ header nav ul li a {
   font-size: 1.50vw;
   color: black;
 }
+.introvert {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+
