@@ -7,7 +7,11 @@ function Extrovert() {
             <img src={extrovertDescription} alt="words that describe extroverts" />
             <div className="going">
                 <h2>Extroverts</h2>
-                <p></p>
+                <ul>
+                    <li>
+                        Defined as people who are outgoing and social
+                    </li>
+                </ul>
             </div>
         </section>
     )

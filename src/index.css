@@ -65,7 +65,7 @@ footer {
   margin-bottom: 15px;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-.inverted p {
+.inverted ul li {
   text-align: center;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
@@ -78,8 +78,13 @@ footer {
   flex-wrap: wrap;
   justify-content: center;
 }
+
 .extrovert img {
   height: 240px;
+}
+.extrovert ul {
+  align-items: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .going {
   width: 100%;
