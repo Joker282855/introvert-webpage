@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/introvert-webpage/static/css/main.09bb14a3.css",
+    "main.js": "/introvert-webpage/static/js/main.0501d684.js",
+    "static/js/787.14585992.chunk.js": "/introvert-webpage/static/js/787.14585992.chunk.js",
+    "static/media/common-ground.jpg": "/introvert-webpage/static/media/common-ground.f3848a3747476b6d7b62.jpg",
+    "static/media/extrovert-quote.jpg": "/introvert-webpage/static/media/extrovert-quote.6523a9fcc92252d62361.jpg",
+    "static/media/cool-background.jpg": "/introvert-webpage/static/media/cool-background.60b910d768f601feb81e.jpg",
+    "static/media/introvert.jpg": "/introvert-webpage/static/media/introvert.5cc10fd730c15290f6e0.jpg",
+    "index.html": "/introvert-webpage/index.html",
+    "main.09bb14a3.css.map": "/introvert-webpage/static/css/main.09bb14a3.css.map",
+    "main.0501d684.js.map": "/introvert-webpage/static/js/main.0501d684.js.map",
+    "787.14585992.chunk.js.map": "/introvert-webpage/static/js/787.14585992.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09bb14a3.css",
+    "static/js/main.0501d684.js"
+  ]
+}
