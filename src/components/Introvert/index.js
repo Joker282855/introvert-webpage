@@ -8,7 +8,7 @@ function Introvert() {
                 <h2>Introverts</h2>
                 <p>
                     General Definition: Introverts in general are people who tend to not talk a lot in social 
-                    situautions. In most social situations an introvert will keep to himself or not speak up a 
+                    situations. In most social situations an introvert will keep to himself or not speak up a 
                     lot. For example, an introvert does not use lots of words to explain things when he or she 
                     talks to other people. The paragraph below explains why introverts prefer to stay quiet or 
                     not speak up in social situations. 
