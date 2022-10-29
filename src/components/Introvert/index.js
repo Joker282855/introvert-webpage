@@ -21,7 +21,8 @@ function Introvert() {
                     because he or she is energized through self reflection. Social interaction is draining because 
                     it requires introverts to be outside their comfort zone and spend energy talking to other people.
                 </p>
-                
+                <br></br>
+                <p>This paragrahp will be on additional information on introverts. This is acting as a placeholder for now</p>
             </div>
             <img src={Introverted} alt="words describing introverts" />
         </section>
