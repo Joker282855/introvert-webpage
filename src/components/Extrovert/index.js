@@ -20,6 +20,9 @@ function Extrovert() {
                     extroverts understand the world around them better. The chance to learn new things 
                     from others along with social interaction is what energizes extroverts.
                 </p>
+                <p>
+                    This paragraph will also be on more additional information about extroverts. It will be worked on tomoroow
+                </p>
             </div>
             <img src={extrovertDescription} alt="words that describe extroverts" />
         </section>
