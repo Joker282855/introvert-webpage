@@ -4,7 +4,7 @@ function Footer() {
     return (
         <footer>
             <div class="foot">
-                Made By Josh Jackson
+                <p>Made By Josh Jackson</p>
             </div>
         </footer>
     )

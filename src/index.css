@@ -67,11 +67,24 @@ footer {
   padding-right: 20px;
 }
 .light {
-  margin-top: 50px;
+  margin-top: 55px;
+  margin-left: 20px;
   height: 250px;
 }
 .second {
-  margin-left: 50px;
+  width: 220px;
+  margin-top: 10px; 
+  margin-left: 140px;
+}
+.brain li {
+  display: inline-block;
+  margin-top: 20px;
+}
+.brain li a {
+  text-decoration: none;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: black;
+  margin-left: 85px;
 }
 .extrovert {
   width: 100%;
