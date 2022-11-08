@@ -7,22 +7,35 @@ function Introvert() {
             <div className="inverted">
                 <h2>Introverts</h2>
                 <p>
-                    General Definition: Introverts in general are people who tend to not talk a lot in social 
-                    situations. In most social situations an introvert will keep to himself or not speak up a 
-                    lot. For example, an introvert does not use lots of words to explain things when he or she 
-                    talks to other people. The paragraph below explains why introverts prefer to stay quiet or 
-                    not speak up in social situations. 
+                    Introverts are known for staying quiet in social situations because they are in a room full of 
+                    people they do not know. For whatever reason being in a room full of people they do not know 
+                    makes introverted personalities nervous and want to keep to themselves so they do not feel so 
+                    uncomfortable. Another factor that makes introverts claim up in social situations is they find 
+                    conserving with other people to be mentally exhausting and they have less energy as the conversation 
+                    goes on. Introverts recharge mostly through self reflection where he or she has time to think about 
+                    their day and gain insight from what they have observed. 
                 </p>
                 <br></br>
                 <p>
-                    Why are Introverts Quiet: Introverts are people who generally stay quiet. 
-                    They usually stay quiet because they prefer thinking about things on their own 
-                    instead of thinking out loud. An introvert prefers thinking about things on his or her own 
-                    because he or she is energized through self reflection. Social interaction is draining because 
-                    it requires introverts to be outside their comfort zone and spend energy talking to other people.
+                    Introverts are known for staying quiet in social situations because they are in a room full of people 
+                    they do not know. For whatever reason being in a room full of people they do not know makes introverted 
+                    personalities nervous and want to keep to themselves so they do not feel so uncomfortable. Another factor 
+                    that makes introverts claim up in social situations is they find conserving with other people to be mentally 
+                    exhausting and they have less energy as the conversation goes on. Introverts recharge mostly through self 
+                    reflection where they have time to think about their day and gain insight from what they have observed. Introverts 
+                    who take time to get to know other people tend to be more talkative because they have grown more comfortable 
+                    around the people they have gotten to know.
+
                 </p>
                 <br></br>
-                <p>This paragrahp will be on additional information on introverts. This is acting as a placeholder for now</p>
+                <p>
+                    At school introverts usually do well when they have to do homework on their own because they are working by themselves. 
+                    Solo projects enable an introvert time to self relect and lets him or her tackle the assignments without having to spend 
+                    energy talking to other people. Teachers usually do not think to pick on introverted students during class discussions because 
+                    they know they will not give a lot of words in response so they usually pick on extroverted personalities instead. 
+                    Both introverted and extroverted personalities find it hard to talk win introverted classmates because they tend to keep the 
+                    conversation short and do not open up very easily. 
+                </p>
             </div>
             <img src={Introverted} alt="words describing introverts" />
         </section>
