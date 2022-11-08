@@ -1,5 +1,6 @@
 import React from 'react'
 import Introverted from "../../assests/inverts/introvert.jpg"
+import Thinks from "../../assests/new-image/introvert-thinking-2.jpg"
 
 function Introvert() {
     return (
@@ -33,12 +34,17 @@ function Introvert() {
                     Solo projects enable an introvert time to self relect and lets him or her tackle the assignments without having to spend 
                     energy talking to other people. Teachers usually do not think to pick on introverted students during class discussions because 
                     they know they will not give a lot of words in response so they usually pick on extroverted personalities instead. 
-                    Both introverted and extroverted personalities find it hard to talk win introverted classmates because they tend to keep the 
+                    Both introverted and extroverted personalities find it hard to talk with introverted classmates because they tend to keep the 
                     conversation short and do not open up very easily. 
                 </p>
             </div>
-            <img src={Introverted} alt="words describing introverts" />
+            <div>
+                <img src={Introverted} class="light" alt="words describing introverts" />
+                <br></br>
+                <img src= {Thinks} class="second" alt="an introvert thinking about things" />
+            </div>
         </section>
+
     )
 }
 

@@ -52,10 +52,6 @@ footer {
   flex-wrap: wrap;
   justify-content: center;
 }
-.introvert img {
-  margin-top: 50px;
-  height: 250px;
-}
 .inverted {
   width: 50%
 }
@@ -69,6 +65,13 @@ footer {
   text-align: left;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   padding-right: 20px;
+}
+.light {
+  margin-top: 50px;
+  height: 250px;
+}
+.second {
+  margin-left: 50px;
 }
 .extrovert {
   width: 100%;
