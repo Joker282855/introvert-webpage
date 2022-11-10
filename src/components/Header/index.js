@@ -2,7 +2,7 @@ import React from 'react';
 import { BrowserRouter as Router, Switch, Route, NavLink } from "react-router-dom";
 import Introvert from '../Introvert';
 import Extrovert from '../Extrovert';
-import Common from '../Common-Ground';
+import Change from '../Needed-Change';
 
 function Header() {
     return (
@@ -23,7 +23,7 @@ function Header() {
                 </li>
                 <li className="mx-2">
                     <NavLink to="/common" className="com-nave" activeClassName="con-nav-active">
-                        Common
+                        Needed Change
                     </NavLink>
                 </li>
             </ul>
@@ -39,7 +39,7 @@ function Header() {
         </Route>
 
         <Route path="/common">
-            <Common></Common>
+            <Change></Change>
         </Route>
     </Switch>
     </Router>

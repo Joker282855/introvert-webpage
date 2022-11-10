@@ -1,7 +1,7 @@
 import React from 'react';
 import sharedThings from "../../assests/shared/common-ground.jpg"
 
-function Common() {
+function Change() {
     return (
         <section id="shared" className="together">
             <div className="peaceful">
@@ -22,4 +22,4 @@ function Common() {
     )
 }
 
-export default Common;
+export default Change;
