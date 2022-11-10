@@ -1,5 +1,6 @@
 import React from 'react';
 import extrovertDescription from "../../assests/exverts/extrovert-quote.jpg"
+import extrovertsTalk from "../../assests/extroverts-talking/extroverts-talking.jpg"
 
 function Extrovert() {
     return (
@@ -23,6 +24,7 @@ function Extrovert() {
                     as they converse with other people. Extroverts start to lose energy when they are in situations 
                     where the other people do not speak up or provide enough details to keep the conversation going. 
                 </p>
+                <br></br>
                 <p>
                     In school is where extroverts are able to shine and demonstrate their ability to converse with 
                     others easily. Because of their ability to easily converse with others they are the ones that 
@@ -33,7 +35,15 @@ function Extrovert() {
                     not have other people to re-energize them. 
                 </p>
             </div>
-            <img src={extrovertDescription} alt="words that describe extroverts" />
+            <div>
+                <img src={extrovertDescription} class="describe" alt="words that describe extroverts" />
+                <br></br>
+                <img src={extrovertsTalk} class="talker" alt="people talking to each other" />
+                <br></br>
+                <li>
+                    <a href="https://therapychanges.com/blog/2016/12/introverts-extroverts-brain-chemistry-differences/">Read About The Difference Between Introverts and Extroverts: Click Here!</a>
+                </li>
+            </div>
         </section>
     )
 }

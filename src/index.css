@@ -95,11 +95,6 @@ footer {
   flex-wrap: wrap;
   justify-content: center;
 }
-.extrovert img {
-  height: 240px;
-  margin-left: 15px;
-  margin-top: 45px;
-}
 .going {
   width: 50%;
 }
@@ -111,6 +106,14 @@ footer {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   margin-top: 15px;
   margin-bottom: 15px;
+}
+.describe {
+  height: 240px;
+  margin-left: 15px;
+}
+.talker {
+  width: 200px;
+  height: 250px;
 }
 .together {
   width: 100%;
