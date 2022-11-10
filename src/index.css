@@ -109,11 +109,23 @@ footer {
 }
 .describe {
   height: 240px;
-  margin-left: 15px;
+  margin-left: 170px;
+  margin-top: 5px;
 }
 .talker {
-  width: 200px;
+  width: 352px;
   height: 250px;
+  margin-left: 107px;
+}
+.elite li {
+  display: inline-block;
+  margin-top: 10px;
+}
+.elite li a {
+  text-decoration: none;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: black;
+  margin-left: 65px;
 }
 .together {
   width: 100%;

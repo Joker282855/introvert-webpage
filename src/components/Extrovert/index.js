@@ -35,13 +35,13 @@ function Extrovert() {
                     not have other people to re-energize them. 
                 </p>
             </div>
-            <div>
-                <img src={extrovertDescription} class="describe" alt="words that describe extroverts" />
-                <br></br>
+            <div class="elite">
                 <img src={extrovertsTalk} class="talker" alt="people talking to each other" />
                 <br></br>
+                <img src={extrovertDescription} class="describe" alt="words that describe extroverts" />
+                <br></br>
                 <li>
-                    <a href="https://therapychanges.com/blog/2016/12/introverts-extroverts-brain-chemistry-differences/">Read About The Difference Between Introverts and Extroverts: Click Here!</a>
+                    <a href="https://therapychanges.com/blog/2016/12/introverts-extroverts-brain-chemistry-differences/">Differences Between Introverts/Extroverts: Click Here!</a>
                 </li>
             </div>
         </section>
