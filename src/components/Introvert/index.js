@@ -41,7 +41,7 @@ function Introvert() {
             <div class="brain">
                 <img src={Introverted} class="light" alt="words describing introverts" />
                 <br></br>
-                <img src= {Thinks} class="second" alt="an introvert thinking about things" />
+                <img src={Thinks} class="second" alt="an introvert thinking about things" />
                 <br></br>
                 <li>
                     <a href="https://quietrev.com/6-illustrations-that-show-what-its-like-in-an-introverts-head/">See Inside An Introverts Head: Click Me!</a>

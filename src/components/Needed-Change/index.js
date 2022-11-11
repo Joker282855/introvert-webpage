@@ -1,5 +1,6 @@
 import React from 'react';
-import sharedThings from "../../assests/shared/common-ground.jpg"
+import Survveyed from "../../assests/sruvey/survey-1.jpg"
+import Fead from "../../assests/feedback/survey-2.jpg"
 
 function Change() {
     return (
@@ -33,7 +34,15 @@ function Change() {
                     overpowering introverted classmates. 
                 </p>
             </div>
-            <img src={sharedThings} alt="two people shaking hands" />
+            <div class="share">
+                <a href="https://docs.google.com/document/d/1nXQ7nOEhRD9VYw_ATKvq9Ot1D9zinhmEbDDsuBpIANY/edit">
+                    <img title="Share Your Voice" alt="survey for student participation" src={Survveyed} class="party" />
+                </a>
+                <br></br>
+                <a href="https://docs.google.com/document/d/1DXec2SS1d0pBpgrZLLcoDJcnKIb-UJY6JfDcUpbsMj0/edit">
+                    <img title="Provide Feedback on Webpage" alt="feedback survey for website" src={Fead} class="respond" />
+                </a>
+            </div>
         </section>
     )
 }

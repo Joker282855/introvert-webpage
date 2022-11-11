@@ -151,6 +151,16 @@ footer {
   margin-top: 15px;
   margin-bottom: 15px;
 }
+.party {
+  height: 250px;
+  width: 250px;
+  margin-left: 80px;
+}
+.respond {
+  height: 180x;
+  width: 180px;
+  margin-left: 80px;
+}
 .foot {
   background-image:  url("./assests/background/cool-background.jpg");
   height: 60px;
