@@ -46,7 +46,6 @@ function Introvert() {
                 <li>
                     <a href="https://quietrev.com/6-illustrations-that-show-what-its-like-in-an-introverts-head/">See Inside An Introverts Head: Click Me!</a>
                 </li>
-                <p>placeholder for now</p>
             </div>
         </section>
 
