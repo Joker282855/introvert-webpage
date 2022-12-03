@@ -15,9 +15,10 @@ function Introvert() {
                     exhausting and they have less energy as the conversation goes on. Introverts recharge mostly through self 
                     reflection where they have time to think about their day and gain insight from what they have observed. Introverts 
                     who take time to get to know other people tend to be more talkative because they have grown more comfortable 
-                    around the people they have gotten to know.
-
-                </p>
+                    around the people they have gotten to know. Because of an introverts tendacy to stay quiet they have been 
+                    perceived by society as people that are hard to talk to and in some cases do not want to do stuff voluntaryily
+                    like joining a club at school. The next paragraph talks about how introverts are viewed in school.
+                 </p>
                 <br></br>
                 <p>
                     At school introverts usually do well when they have to do homework on their own because they are working by themselves. 
