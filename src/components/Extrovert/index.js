@@ -19,9 +19,9 @@ function Extrovert() {
                 <p>
                     Extroverts are people who are outgoing in social situations and when they have a room full 
                     of people they can talk to. Extroverts are outgoing in social situations because they like 
-                    hearing other people's perspective and gaining insight from it. Both learning from other 
+                    hearing other people's perspective and gaining insight from it. Learning from other 
                     people and engaging in conversation energizes extroverted personalities and brings them joy 
-                    as they converse with other people. Extroverts start to lose energy when they are in situations 
+                    as they continue to converse with other people. Extroverts start to lose energy when they are in situations 
                     where the other people do not speak up or provide enough details to keep the conversation going. 
                 </p>
                 <br></br>

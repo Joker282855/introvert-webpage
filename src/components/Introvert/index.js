@@ -8,16 +8,6 @@ function Introvert() {
             <div className="inverted">
                 <h2>Introverts</h2>
                 <p>
-                    Introverts are known for staying quiet in social situations because they are in a room full of 
-                    people they do not know. For whatever reason being in a room full of people they do not know 
-                    makes introverted personalities nervous and want to keep to themselves so they do not feel so 
-                    uncomfortable. Another factor that makes introverts claim up in social situations is they find 
-                    conserving with other people to be mentally exhausting and they have less energy as the conversation 
-                    goes on. Introverts recharge mostly through self reflection where he or she has time to think about 
-                    their day and gain insight from what they have observed. 
-                </p>
-                <br></br>
-                <p>
                     Introverts are known for staying quiet in social situations because they are in a room full of people 
                     they do not know. For whatever reason being in a room full of people they do not know makes introverted 
                     personalities nervous and want to keep to themselves so they do not feel so uncomfortable. Another factor 
