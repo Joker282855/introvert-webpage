@@ -9,12 +9,12 @@ because I am introverted myself. The focus of this website is to increase unders
 social isolation happens less at school.
 
 # Table Of Contents
-*[Tasks For Website](#tasks-for-website)
-*[Tasks Acheived By](#tasks-acheieved-by)
-*[Website Organization](#website-organization)
-*[Website Link](#website-link)
-*[Screenshot Of Website](#screenshot-of-website)
-*[Contributors](#contributors)
+1. [Tasks For Website](#tasks-for-website)
+2. [Tasks Acheived By](#tasks-acheieved-by)
+3. [Website Organization](#website-organization)
+4. [Website Link](#website-link)
+5. [Screenshot Of Website](#screenshot-of-website)
+6. [Contributors](#contributors)
 
 # Tasks For Website
 1. A person can use the links at the top of the website to move between the different sections of the website
